@@ -1,35 +1,6 @@
 
-#vscode:
-  #extensions:
-    #- 42Crunch.vscode-openapi
-
-    # .gitpod.yml
-
-# Specify the Docker image to use for the workspace
-image:
-  file: .gitpod.dockerfile
-
-# Specify the ports to expose to the browser
-ports:
-  - port: 3000
-    onOpen: open-preview
-
-# Specify the prebuilds to use
-# prebuilds:
-#   - image: my-image
-
-# Specify the VS Code extensions to install
 vscode:
   extensions:
-    - dbaeumer.vscode-eslint
-    - ms-python.python
+    - 42Crunch.vscode-openapi
 
-# Specify the scripts to run when the workspace starts
-tasks:
-  - name: Start the app
-    command: npm start
-
-# Specify the environment variables to set
-# env:
-#   MY_VAR: my-value
-# for testing
+    .gitpod.yml
