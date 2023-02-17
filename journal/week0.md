@@ -55,6 +55,18 @@ Made a few research on the technical and service limits of some services such as
 ![Alt text](../asset/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg)
 ![Alt text](../asset/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg)
 ![Alt text](../asset/uriel-soberanes-MxVkWPiJALs-unsplash.jpg)
+![Alt text](../az/Git%203.png)
+![Alt text](../az/Git%204.png)
+###
+###
+###
+###
+A
+B
+C
+D
+E
+F
 ***
 ***
 ***
@@ -68,3 +80,4 @@ Made a few research on the technical and service limits of some services such as
 ![Alt text](../az/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg)
 ![Alt text](../az/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg)
 ![Alt text](../az/uriel-soberanes-MxVkWPiJALs-unsplash.jpg)
+
