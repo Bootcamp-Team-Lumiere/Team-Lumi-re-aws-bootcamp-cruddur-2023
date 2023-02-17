@@ -55,3 +55,16 @@ Made a few research on the technical and service limits of some services such as
 ![Alt text](../asset/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg)
 ![Alt text](../asset/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg)
 ![Alt text](../asset/uriel-soberanes-MxVkWPiJALs-unsplash.jpg)
+***
+***
+***
+***
+***
+***
+***
+![Alt text](../az/paul-frenzel-MnHQMzC6n-o-unsplash.jpg)
+![Alt text](../az/ramon-salinero-vEE00Hx5d0Q-unsplash.jpg)
+![Alt text](../az/surface--ZFvSWK4L28-unsplash.jpg)
+![Alt text](../az/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg)
+![Alt text](../az/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg)
+![Alt text](../az/uriel-soberanes-MxVkWPiJALs-unsplash.jpg)
