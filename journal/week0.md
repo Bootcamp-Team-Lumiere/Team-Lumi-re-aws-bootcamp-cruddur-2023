@@ -41,4 +41,16 @@ Reviewed some questions of each pillar of the well architected tool
 Created a logical flow of the cruddr app, click HERE to view.
 
 Made a few research on the technical and service limits of some services such as RDS, MQ, Route 53, EC2 instances, Dynamo DB etc.
-
+![Alt text](../_docs/assets/img/alex-knight-2EJCSULRwC8-unsplash.jpg)
+![Alt text](../_docs/assets/img/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg)
+![Alt text](../_docs/assets/img/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg)
+![Alt text](../_docs/assets/img/daniel-josef-AMssSjUaTY4-unsplash.jpg)
+![Alt text](../_docs/assets/img/martin-shreder-5Xwaj9gaR0g-unsplash.jpg)
+![Alt text](../_docs/assets/img/matt-botsford-OKLqGsCT8qs-unsplash.jpg)
+![Alt text](../asset/nasa-Q1p7bh3SHj8-unsplash.jpg)
+![Alt text](../asset/paul-frenzel-MnHQMzC6n-o-unsplash.jpg)
+![Alt text](../asset/ramon-salinero-vEE00Hx5d0Q-unsplash.jpg)
+![Alt text](../asset/surface--ZFvSWK4L28-unsplash.jpg)
+![Alt text](../asset/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg)
+![Alt text](../asset/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg)
+![Alt text](../asset/uriel-soberanes-MxVkWPiJALs-unsplash.jpg)
